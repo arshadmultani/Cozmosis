@@ -28,7 +28,7 @@ class AdminPanelProvider extends PanelProvider
             ->path('admin')
             ->registration()
             ->profile()
-            ->brandName('Cozmoh')
+            ->brandName('Cozmosis')
             ->login()
             ->colors([
                 'primary' => Color::Amber,
